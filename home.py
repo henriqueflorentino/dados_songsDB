@@ -14,7 +14,7 @@ rpm_return = df_songs[df_songs["beats.per.minute"] <= rpm_slider]
 
 
 st.title('"Top 100 Most Streamed Songs on Spotify"')
-st.caption("Esta é uma aplicação de conceitos inicias estudados em Python - por Henrique A. Florentino")
+st.caption("Esta é uma aplicação de conceitos iniciais estudados em Python - por Henrique A. Florentino")
 st.feedback("stars")
 
 rpm_return
